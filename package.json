@@ -1,0 +1,15 @@
+{
+  "name": "template",
+  "description": "it's a template",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "_comment": "//fs for file system" 
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0",
+    "enmap": "5.0.0"
+  }
+}
